@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Affordable and professional webdesign",
+    <meta name="keywords" content="web design, affordable web design, professional web design",
+    <meta name="author" content="Brad Traversy",
+    <title>Acme Web Design  About</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+           <div id="branding">
+            <h1><span class="highlight">Acme</span> web design</h1>
+           </div>
+           <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li  class="current"><a href="About.html">About</a></li>  
+              <li><a href="Services.html">Services</a></li>    
+            </ul>
+           </nav> 
+        </div>
+    </header>
+
+    <section id="newsletter">
+       <div class="container">
+        <h1>Subscribe To Our Newsletter</h1>
+        <form>
+            <input type="Email" placeholder="Enter Email...">
+            <button type="Submit" class="button_1">Subscribe</button>
+        </form>
+       </div> 
+    </section>
+
+    <section id="main">
+        <div class="container">
+            
+        </div>
+    </section>
+
+    <footer>
+        <p>Acme Web Design, copyright copy: 2017;</p>
+    </footer>
+</body>
+</html>
